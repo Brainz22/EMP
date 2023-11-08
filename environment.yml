@@ -1,3 +1,5 @@
 name: jetID
+channels:
+  - conda-forge
 dependencies:
   - python=2.7
